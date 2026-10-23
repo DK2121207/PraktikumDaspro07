@@ -1,4 +1,4 @@
-package Jobsheet1;
+package P1;
 
 public class RobotArm07 {
     public static void main(String[] args) {

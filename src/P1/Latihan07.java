@@ -1,4 +1,4 @@
-package Jobsheet1;
+package P1;
 
 public class Latihan07 {
 
