@@ -1,3 +1,6 @@
+// Nomor absen = 7
+// tarif parkir mobil = 2500 + (7 % 6) * 250 = 2750
+// tarif parkir motor = 1500 + (7 % 6) * 250 = 1750
 package Pertemuan9;
 
 import java.util.Scanner;

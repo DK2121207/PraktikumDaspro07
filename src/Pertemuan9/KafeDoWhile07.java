@@ -1,3 +1,7 @@
+// Nomor absen = 7
+// hargaKopi = 10000 + (7 % 5) * 1000 = 12000
+// hargaTeh = 5000 + (7 % 4) * 1000 = 8000
+// hargaRoti = 15000 + (7 % 6) * 1000 = 16000
 package Pertemuan9;
 
 import java.util.Scanner;

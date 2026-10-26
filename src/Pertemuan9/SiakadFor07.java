@@ -1,3 +1,6 @@
+// Nomor absen = 7
+// Jumlah mahasiswa (batas perulangan for) = 8 + (7 % 5) = 10
+// Batas kelulusan pada Pertanyaan no. 4 (modifikasi kode) = 55 + (7 % 11) = 62
 package Pertemuan9;
 
 import java.util.Scanner;

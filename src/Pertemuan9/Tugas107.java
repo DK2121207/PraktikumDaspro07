@@ -1,3 +1,7 @@
+// Nomor absen = 7
+// Harga tiket = 40000 + (7 % 6) * 2000 = 42000
+// Syarat diskon pertama: tiket > 3 + (7 % 3) = 4, diskon 8 + (7 % 5) = 10
+// Syarat diskon kedua: tiket > 8 + (7 % 4) = 11, diskon 15 + (7 % 4) = 18
 package Pertemuan9;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+// Nomor absen = 7
+// Pada Pertanyaan no. 3, ganti angka "19" pada soal dengan 15 + (P mod 10) = 15 + (7 mod 10) = 22
 package Pertemuan9;
 
 import java.util.Scanner;
